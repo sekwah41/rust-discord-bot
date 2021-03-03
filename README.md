@@ -4,7 +4,7 @@ This is just a mess around bot for me and some friends. This is not meant to be 
 Huge thanks to [Liam Cottle](https://github.com/liamcottle) as without a bunch of extra effort to initially make
 and also maintain a way of talking to the Rust+ API 
 
-Env arguments
+## Env arguments
 
 This is entirely just an implementation to automate with a bot for https://github.com/liamcottle/rustplus.js
 
